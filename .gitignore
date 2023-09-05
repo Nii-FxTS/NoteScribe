@@ -1,0 +1,16 @@
+node_modules
+initialapp.js
+package-lock.json
+*.env
+*.log
+*exe
+*.log
+*.swp
+*.swo
+*.bak
+*.obj
+*.obj
+*.a
+*.lib
+*.so
+*dylib
